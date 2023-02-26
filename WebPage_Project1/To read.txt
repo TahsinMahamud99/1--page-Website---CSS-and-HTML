@@ -1,0 +1,19 @@
+This is a Project done by Tahsin Mahamud
+
+credits for resources (img, vid and audios) go to:
+
+
+
+Video by Oleg Gamulinskii from Pexels: https://www.pexels.com/video/binary-code-rain-animation-11584395/
+
+Anime Gif: https://tenor.com/view/coding-anime-gif-24565564
+
+Logo: <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by juicy_fish - Flaticon</a>
+
+Git-icon: <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Dave Gandy - Flaticon</a>
+
+Linkedin-icon: <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Google - Flaticon</a>
+
+Pixel neon centreal GIF: https://tenor.com/bAVRC.gif
+
+If any other attribution is missing, please reach out to tahsinmahamud99@gmail.com
